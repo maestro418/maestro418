@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ren Saito</h1>
-<h3 align="center">I bring innnovative project to life.</h3>
+<h3 align="center">I bring innovative project to life.</h3>
 
 - 📝 I regularly write articles on [dev.to](dev.to)
 
